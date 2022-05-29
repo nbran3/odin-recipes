@@ -1,0 +1,20 @@
+* { background-color: lightsalmon;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+.Lasagna{
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sub{
+    32px
+}
